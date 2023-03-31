@@ -10,7 +10,7 @@
 <details>
   <summary>⚡ Github Stats</summary>
 
-  <a href="#">![Github stats](https://github-readme-stats-lake-gamma.vercel.app/api?username=pandfun&theme=chartreuse-dark&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Github stats](https://github-readme-stats-lake-gamma.vercel.app/api?username=pandfun&theme=chartreuse-dark&count_private=true&hide_border=true)</a>
   <a href="#">![Top Langs](https://github-readme-stats-lake-gamma.vercel.app/api/top-langs/?username=pandfun&layout=compact&theme=chartreuse-dark&count_private=true&hide_border=true)</a>
 
 
