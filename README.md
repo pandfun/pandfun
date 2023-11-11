@@ -2,7 +2,7 @@
 &nbsp;
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,linux" />
+  <img src="https://skillicons.dev/icons?i=c,linux,cpp,python,js" />
 </p>
 
 - *Passionate about creating new technologies!*
