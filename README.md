@@ -15,7 +15,7 @@
 
 &nbsp;
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=pandfun.pandfun&left_text=Profile%20Views&format=true&right_color=purple)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=pandfun.pandfun&left_text=Profile%20Views&format=true&right_color=%23425887)
 
 <!-- 
 
