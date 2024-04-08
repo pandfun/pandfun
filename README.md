@@ -2,7 +2,7 @@
 &nbsp;
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,linux,cpp,python,js,rust,matlab,arduino" />
+  <img src="https://skillicons.dev/icons?i=c,linux,cpp,python,js,html,css,rust,matlab,arduino" />
 </p>
 
 
